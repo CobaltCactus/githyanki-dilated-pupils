@@ -39,7 +39,7 @@
                 <node id="ModuleInfo">
                     <attribute id="Author" type="LSString" value="CobaltCactus"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSString" value="Dilates the pupils of vanilla Githyanki eyes."/>
+                    <attribute id="Description" type="LSString" value="This mod drastically widens the pupils of Githyanki eyes without sacrificing their original gecko-like qualities. For still noticably different, but less dilated eyes, install this mod&apos;s sister &quot;Larger Pupils for Githyanki Eyes.&quot;"/>
                     <attribute id="FileSize" type="uint64" value="0"/>
                     <attribute id="Folder" type="LSString" value="githyanki_dilated_pupils_ea576ca5-000b-8ed4-a591-68b6ce50486b"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
